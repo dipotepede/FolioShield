@@ -1,7 +1,7 @@
 # ⚡ FolioShield
 > **Intelligent Financial Portfolio & Risk Governance Engine**
 
-[![Live Deployment](https://img.shields.io/badge/Live%20Platform-folioshield.app-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://folioshield.app)
+[![Live Deployment](https://img.shields.io/badge/Live%20Platform-folioshield.dipotepede.org-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://folioshield.dipotepede.org)
 [![Platform Status](https://img.shields.io/badge/Status-Operational-198754?style=for-the-badge)](#)
 [![Infrastructure](https://img.shields.io/badge/Architecture-Cloud%20Native%20PWA-4285F4?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#license)
@@ -10,11 +10,9 @@
 
 ## 📌 Executive Overview
 
-**FolioShield** is a distributed financial risk intelligence platform designed to eliminate uncertainty and asset exposure across volatile asset markets and regional investment portfolios.
+**FolioShield** is a distributed financial risk intelligence platform designed to eliminate uncertainty and asset exposure across volatile asset markets and regional investment portfolios. 
 
 Market volatility and extreme asset value fluctuations present persistent operational and financial risks to private investors and institutional funds. By synthesizing multi-source telemetry—combining localized market price feeds with real-time portfolio asset reporting—FolioShield delivers live visibility into position-level health, active risk exposure, and predictive drawdown horizons.
-
-The platform goes beyond simple binary ("GAIN/LOSS") indicators by analyzing asset quality and portfolio variance, enabling users to optimize rebalancing triggers, automate alternative hedge execution, and protect sensitive capital allocations from unexpected market downturns.
 
 ---
 
