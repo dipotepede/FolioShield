@@ -77,3 +77,48 @@ FolioShield is engineered as a lightweight, cloud-native Progressive Web Applica
                │  - Risk Governance Engine         │
                │  - Regional Exchange Directory    │
                └───────────────────────────────────┘
+
+Client Presentation Layer: Pure, responsive Progressive Web App (PWA) compatible with any mobile browser, featuring low-data consumption and offline caching support.
+
+Processing & Inference Service: High-throughput cloud processing backend responsible for ingesting multi-source market pings, filtering false positives, and publishing instant status feeds.
+
+Data Security & Privacy: Telemetry is anonymized and aggregated at the portfolio/fund level in full compliance with data governance and privacy frameworks.
+
+🗺️ Coverage & Integration Hubs
+FolioShield is structured to map asset networks across major global financial exchanges and liquidity providers, including:
+
+New York Stock Exchange (NYSE)
+
+Nasdaq (NASDAQ)
+
+London Stock Exchange (LSE)
+
+Frankfurt Stock Exchange (FRA)
+
+Tokyo Stock Exchange (TSE)
+
+Hong Kong Exchanges and Clearing (HKEX)
+
+Euronext (ENX)
+
+Australian Securities Exchange (ASX)
+
+Toronto Stock Exchange (TSX)
+
+Johannesburg Stock Exchange (JSE)
+
+B3 (Brasil Bolsa Balcão)
+
+National Stock Exchange of India (NSE)
+
+📖 Compliance & Public Resources
+Live Dashboard: https://folioshield.dipotepede.org
+
+Exchange Locator & Maps: Direct lookup of primary clearing nodes and financial custody hubs.
+
+Privacy & Governance: Built in strict alignment with global data protection regulations and international financial compliance frameworks.
+
+📄 License & Intellectual Property
+Proprietary. All rights reserved © 2026 FolioShield.
+
+All algorithms, system telemetry aggregations, and proprietary risk governance models are protected. Unauthorized copying, reverse engineering, or redistribution is strictly prohibited.
